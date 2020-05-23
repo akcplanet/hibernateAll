@@ -9,7 +9,7 @@ import javax.persistence.NamedNativeQuery;
 import javax.persistence.NamedQuery;
 
 /**
- * @author preetham
+ * @author amit
  */
 @Entity
 @NamedQuery( name = "Phone.byName", query = "from Phone where name=?" )

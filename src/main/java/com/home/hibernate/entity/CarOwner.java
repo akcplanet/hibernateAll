@@ -12,7 +12,7 @@ import javax.persistence.ManyToMany;
 import javax.persistence.Transient;
 
 /**
- * @author preetham
+ * @author amit
  */
 @Entity
 public class CarOwner {

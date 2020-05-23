@@ -8,7 +8,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
 /**
- * @author preetham
+ * @author amit
  */
 @Entity
 public class House

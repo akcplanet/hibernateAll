@@ -12,7 +12,7 @@ import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 
 /**
- * @author preetham
+ * @author amit
  */
 @Entity
 public class Car {

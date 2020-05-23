@@ -3,7 +3,7 @@ package com.home.hibernate.entity;
 import javax.persistence.Embeddable;
 
 /**
- * @author preetham
+ * @author amit
  */
 @Embeddable
 public class Address

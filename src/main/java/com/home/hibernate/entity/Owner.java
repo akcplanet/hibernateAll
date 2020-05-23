@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
 /**
- * @author preetham
+ * @author amit
  */
 @Entity
 public class Owner

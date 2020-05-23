@@ -4,7 +4,7 @@ import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 
 /**
- * @author preetham
+ * @author amit
  */
 @Entity
 @DiscriminatorValue( "CAR" )
